@@ -1,2 +1,2 @@
-# primeiro-game-de-programa-o
+# primeiro game de programa
 game crido para pratica e aprendizagem de programação
